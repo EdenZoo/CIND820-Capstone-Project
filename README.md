@@ -4,8 +4,7 @@ This respository for my CIND 820 Capstone Project - Credit Card Fraud Detection,
 
 Project dataset available on Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-Project stages:
-
+Tentative stages:
 1. Problem definition and data collection. Problem for this project is defined as developing machine learning models for credit card fraud detection. Dataset is obtained from Kaggle.com (see above).
 2. Exploratory analysis, including checking data structure, any missing values and outliners, ploting feature distributions and feature correlation.
 3. Reprocessing, including replacing missing values and eliminating outliners (if neccessary), rescaling/normalizing features, and feature selection based on feature correlation and subject matter knowledge.
@@ -20,5 +19,5 @@ Project stages:
 
 Repositories:
 1. Data
-2. Codes, contains ipynd notebooks.
-3. Technial reports, contains results.
+2. Codes, contains ipynd notebooks with results.
+3. Technial reports, contains results in PDF.
