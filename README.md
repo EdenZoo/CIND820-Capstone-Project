@@ -16,7 +16,7 @@ Tentative project stages:
 6. Model evaluation, using metrics suitable for the context of the issue and imbalanced datasets.
 - f1 score (precision and recall)
 
-Repositories:
+Structure of the repository:
 1. Data
 2. Codes, contains ipynd notebooks with results.
 3. Technial reports, contains results in PDF.
